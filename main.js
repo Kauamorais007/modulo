@@ -26,5 +26,3 @@ let res5 = f.retangulo(7, 9)
 console.log(res5)
 let res6 = f.perfeito(6)
 console.log(res6)
-let ok = 5!;
-
