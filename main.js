@@ -18,13 +18,13 @@ function ola() {
     console.log("Ola")
 }
 
-ola()
+let res3 = f.circulo(8)
+console.log(res3)
+let res4 = f.triangulo(modulo.base, modulo.altura)
+console.log(res4)
+let res5 = f.retangulo(7, 9)
+console.log(res5)
+let res6 = f.perfeito(6)
+console.log(res6)
+let ok = 5!;
 
-oi()
-
-const oi = () => console.log("oi")
-
-// funcao.aviso()
-
-// console.log(numero, modulo)
-// console.log(modulo.nome, modulo.numero)
